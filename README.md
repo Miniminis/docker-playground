@@ -2,6 +2,7 @@
 title : 도커 공부하기 from <가장 빨리 만나는 Docker> 
 tag : 
 - docker
+date : 2020-06-25
 ---
 
 # docker-playground
